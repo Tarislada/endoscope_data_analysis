@@ -1,0 +1,12 @@
+movie
+Start 11
+30s sound 44
+hunting end 1:24
+end 1:59
+
+endoscopy
+30s sound
+hunting end 1:11
+end sound 1:32(애매)
+
+-13
