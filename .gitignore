@@ -72,4 +72,7 @@ $RECYCLE.BIN/
 *.fig
 *.mat
 
+# Data Folder
+datafiles/
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,matlab
